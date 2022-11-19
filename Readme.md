@@ -1,0 +1,1 @@
+Neste projeto, desenvolvo um sistema de candidatura automatica para uma vaga de emprego utilizando o python.
